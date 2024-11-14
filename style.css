@@ -1,0 +1,10 @@
+.image {
+  height: 500px;
+  width: 500px;
+  background: url(camera.png);
+  cursor: zoom-in;
+  background-position: center;
+}
+.image:hover {
+  background-size: 120%;
+}
